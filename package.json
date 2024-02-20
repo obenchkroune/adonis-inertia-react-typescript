@@ -66,14 +66,20 @@
     "@adonisjs/static": "^1.1.1",
     "@adonisjs/vite": "^2.0.2",
     "@inertiajs/react": "^1.0.14",
+    "@radix-ui/react-slot": "^1.0.2",
     "@vinejs/vine": "^1.7.1",
     "alpinejs": "^3.13.5",
     "better-sqlite3": "^9.4.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
     "edge.js": "^6.0.1",
+    "lucide-react": "^0.335.0",
     "luxon": "^3.4.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "reflect-metadata": "^0.2.1"
+    "reflect-metadata": "^0.2.1",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss-animate": "^1.0.7"
   },
   "eslintConfig": {
     "extends": "@adonisjs/eslint-config/app"

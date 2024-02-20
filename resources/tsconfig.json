@@ -3,8 +3,8 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "ts/*": ["./ts/*"],
-      "css/*": ["./css/*"]
+      "@/*": ["./ts/*"],
+      "@css/*": ["./css/*"]
     },
     "types": ["vite/client"]
   }
